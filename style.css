@@ -59,7 +59,13 @@ img {
     font-size: 16px;
     font-weight: 400;
     cursor: pointer;
+    transition: .2s ease;
 }
+
+.color:hover {
+    color: #61A5FA;
+}
+
 
 .circle-container {
     display: flex;
